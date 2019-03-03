@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrestoQ Challenge</string>
+    <string name="ms_tab_title_1">Cards</string>
+    <string name="ms_tab_title_2">List</string>
+    <string name="list_title">Manager\'s Special</string>
+    <string name="card_title">Manager\'s Special</string>
+</resources>
